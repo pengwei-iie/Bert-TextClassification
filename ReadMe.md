@@ -66,6 +66,6 @@ class TRNNConfig(object):
 
 具体参看`run_rnn_bert.py`的实现。
 
-关于RNN-bert模型--清华新浪新闻数据集的实现见github（）
+关于RNN-bert模型--清华新浪新闻数据集的实现见github（https://github.com/a414351664/Bert-THUCNews）
 
 
